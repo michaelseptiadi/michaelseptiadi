@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @michaelseptiadi
-- 🌱 I’m currently learning How to Be a Developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning How to Be a Front End Developer
+- 📫 You can connect with my Linkedin https://www.linkedin.com/in/michaelseptiadi/
 
 <!---
 michaelseptiadi/michaelseptiadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
