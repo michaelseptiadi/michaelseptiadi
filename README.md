@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelseptiadi
-- 🌱 I’m currently learning How to Be a Front End Developer
+- 🌱 I’m currently work as a Front End Developer
 - 📫 You can connect with my Linkedin https://www.linkedin.com/in/michaelseptiadi/
 
 <!---
